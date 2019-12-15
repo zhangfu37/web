@@ -1,0 +1,4 @@
+# Project exclude paths
+/Maven/target/
+/nihao/target/
+/out/
